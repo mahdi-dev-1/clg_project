@@ -40,8 +40,8 @@
                     <input type="password" name="password" id="password" required minlength="8" maxlength="15" pattern="\d{5,15}" placeholder="کد ملی">
                 </div>
 
-                <div class="submit-input-c">
-                    <input type="submit" name="login-submit" value="ورود">
+                <div class="submit-button-c">
+                    <button name="login" value="Login" type="submit">ورود</button>
                 </div>
             </form>
 
